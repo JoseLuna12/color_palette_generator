@@ -18,4 +18,5 @@ The file output is always called output.png
 - Image source type
     - url
     - file
-another string would make the program panic.
+
+Another string would make the program panic.
